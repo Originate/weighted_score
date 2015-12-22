@@ -16,7 +16,7 @@ module WeightedScore
 
     def calculate
       self.class.score_map.keys.reduce(0) do |total, score|
-        total += score.new(scorable).calculate * self.class.score_map[score]
+        total + score.new(scorable).calculate * self.class.score_map[score]
       end
     end
   end
