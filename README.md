@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/Originate/weighted_score.svg?style=svg)](https://circleci.com/gh/Originate/weighted_score)
+[![Circle CI](https://circleci.com/gh/Originate/weighted_score.svg?style=shield)](https://circleci.com/gh/Originate/weighted_score)
 [![Coverage Status](https://coveralls.io/repos/Originate/weighted_score/badge.svg?branch=master&service=github)](https://coveralls.io/github/Originate/weighted_score?branch=master)
 [![Code Climate](https://codeclimate.com/github/Originate/weighted_score/badges/gpa.svg)](https://codeclimate.com/github/Originate/weighted_score)
 
